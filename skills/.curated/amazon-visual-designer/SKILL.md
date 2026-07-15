@@ -1,7 +1,7 @@
 ---
 name: amazon-visual-designer
-version: "1.0.0"
-last_updated: "2026-07-14"
+version: "1.1.0"
+last_updated: "2026-07-15"
 description: >
   Amazon US 产品视觉设计助手。用户在聊天中直接上传产品底图（或提供文件夹路径），
   Skill 自动提取产品特征、设计视觉策略，再输出合规的图片生成方案和质检报告。支持双通道
